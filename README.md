@@ -98,16 +98,19 @@ python main.py
 
 ---
 
-##  Preview (Optional)
+##  Gui Preview
 
-*(Add screenshots here once uploaded — example below)*
+###  Home Page
+![Home Page](assets/home_page.png)
 
-```
-assets/
- ├── home_page.png
- ├── employee_form.png
- └── payroll_history.png
-```
+###  Employee Management
+![Employee Management](assets/employee_page.png)
+
+###  Payroll History
+![Payroll History](assets/history_page.png)
+
+###  Payroll Summary
+![Payroll History](assets/summary_page.png)
 
 ---
 
